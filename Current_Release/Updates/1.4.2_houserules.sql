@@ -25,7 +25,7 @@
 -- PATCH NOTES 
 -- ===========
 -- Add stuff for the Onwards to Outlands level 60 boost quest
--- Populate GM Island (vendors, trainers)
+-- Populate GM Island (vendors, trainers) 
 
 -- =========================
 -- Onwards to Outlands quest
